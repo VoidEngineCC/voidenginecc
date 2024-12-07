@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact :  [Away from Computer I'm a gym rat and a Dickhead on BMW]
 
-- 👨‍💻 Some of my projects will be available at **MY PROFILE DUH**
+- 👨‍💻 Some of my projects will be available at **MY PROFILE**
 
 - 📄 Know about my experiences : **I've shitted on some companies like AeriaGames.**
 
