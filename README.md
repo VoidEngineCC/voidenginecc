@@ -9,7 +9,7 @@
 
 - 🤝 Selling all my projects in 👉 **S4 League // Metin2 // Rust // MTA // FiveM...**
 
-- ⚡ Fun fact [Away from Computer I'm a gym rat and a Dickhead on BMW](Away from Computer I'm a gym rat and a Dickhead on BMW)
+- ⚡ Fun fact :  [Away from Computer I'm a gym rat and a Dickhead on BMW]
 
 - 👨‍💻 Some of my projects will be available at **MY PROFILE DUH**
 
