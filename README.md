@@ -1,5 +1,5 @@
 <center><h1 align="center">Welcome to my hub : VoidEngineCC</h1>
-<h3 align="center">A multiskilled dickhead from 🇷🇺</h3>
+<h3 align="center">A multiskilled dickhead from <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/800px-Flag_of_Russia.svg.png" alt="RUSSIA" height="30" width="40" /></h3> 
 
 - 🔭 Currently getting better @ **Rust Server Developement with Oxide**
 
@@ -64,4 +64,14 @@
 <br>
 - Crown Anti-Cheat @FiveM
 <br>
+
+<h3 align="left">Spoken Languages:</h3>
+<br>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/800px-Flag_of_Russia.svg.png" alt="RUSSIAN" height="100" width="120" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7dOtcWJDBgGa1TFsSSCfSwAGlnOXVRJ_ItxXY2VKbgtZ_5lN7Wk0-eEgcvTzAABQBGE51gMVDqbfnXD4JBTqDzje59iXe1OSKnhlZrA" alt="ENGLISH" height="100" width="120" />
+  <img src="https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg" alt="FRENCH" height="100" width="120" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZrhSmCcV7-XhQJcJ7Fr7-IzM0DD4dzGbu_w&s" alt="SPANISH" height="100" width="120" />
+</p>
+
 </center>
